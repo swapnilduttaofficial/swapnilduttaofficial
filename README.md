@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @swapnilduttaofficial
-- 👀 I’m interested in web development and graphic designing (UI/UX)
-- 🌱 I’m currently learning html, css, javascript, bootstrap, mongodb and SQL
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @swapnildutta
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Java and DSA
 - 📫 How to reach me ... You can contact me in my mail id swapnilduttaofficial@outlook.com
 
 <!---
